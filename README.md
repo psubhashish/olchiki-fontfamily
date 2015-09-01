@@ -1,4 +1,4 @@
-This is the development page for a yet-to-be-named, libre Ol Chiki font family (regular, bold and italic) commissioned by the Access to Knowledge Programme (CIS-A2K)[(more details here)](https://meta.wikimedia.org/wiki/CIS-A2K/Work_plan_July_2015_-_June_2016/Santali_Wikipedia), and designed by [Pooja Saxena](http://poojasaxena.in). 
+This is the development page for a yet-to-be-named, libre Ol Chiki font family (regular, bold and italic) commissioned by the Access to Knowledge Programme (CIS-A2K)[(details here)](https://meta.wikimedia.org/wiki/CIS-A2K/Work_plan_July_2015_-_June_2016/Santali_Wikipedia), and designed by [Pooja Saxena](http://poojasaxena.in). 
 
 **Ol Chiki*:
 
