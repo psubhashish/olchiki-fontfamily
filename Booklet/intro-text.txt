@@ -1,5 +1,15 @@
-<insert name> is a new, Unicode-compliant Ol Chiki typeface family, consisting of regular, bold and italic fonts, designed by Pooja Saxena with generous support from the Access to Knowledge programme at The Centre for Internet and Society, Bangalore. Together with input methods and keyboard layouts that have been designed in parallel by Subhashish Panigrahi, it hopes to make reading and writing in Santali in the Ol Chiki script easier and more accessible on digital platforms.
+Sarjom is a new, Unicode-compliant Ol Chiki typeface family, consisting of regular, bold and italic fonts, designed by Pooja Saxena with support from the Access to Knowledge programme at The Centre for Internet and Society, Bengaluru. Together with input methods and keyboard layouts that have been designed in parallel by Subhashish Panigrahi, it hopes to make reading and writing in Santali in the Ol Chiki script easier and more accessible on digital platforms.
 
-Santali is one of twenty-two languages in the Eighth Schedule of the Indian Constitution. It belongs to the Munda language family, which is a branch of the Austroasiatic language family, and is written using several scripts including Bengali, Devanagari, Oriya, Latin, and Ol Chiki. Ol Chiki, the newest of these scripts, was developed between 1920–1940 by Pandit Raghunath Murmu to create a writing system that met all the needs of the Santali language and could unify its literature under one script. Pandit Murmu is said to have devised the shapes of Ol Chiki letters based on objects commonly occurring in nature. The Ol Chiki script has thirty letters, out of which six are vowels and the remaining twenty-four consonants, along with six diacritics. 
+Santali is one of 22 Indian languages in the eighth schedule of the Constitution of India. It belongs to the Munda language family, which is a branch of the Austroasiatic language family, and is written using several scripts including the native script Ol chiki and also in Bengali, Devanagari, Latin and Odia. Ol Chiki, the newest of these scripts, was developed between 1920–1940 by Raghunath Murmu to create a writing system that met all the needs of the Santali language and could unify its literature under one script. Murmu is said to have devised the shapes of Ol Chiki letters based on natural objects in the settings where the Santals live in. The Ol Chiki script has thirty letters, out of which six are vowels and the remaining twenty-four consonants, along with six diacritics. 
 
 This project was made possible with help and feedback from:
+* Dr. Damayanti Besra, Advisor, AISS, Lecturer, MPC College, Baripada, Odisha, India
+* Mangat Murmu and Malati Murmu, The Fagun (Santali magazine)
+* Kuanra Murmu, http://wesanthals.tripod.com
+
+Contents:
+1. How to install the "Sarjom" typeface (Standard hpw-tos available online, screenshot mock-ups to be created)
+2. How to type in Ol Chiki in Windows, Linux, cross-platforms, and on Wikimedia projects
+2.a InScript
+2.b Sarjom baha (Phonetic)
+2.c Typing in Ol chiki on social media, blogs/websites, emails, etc.
